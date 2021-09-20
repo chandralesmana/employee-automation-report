@@ -21,7 +21,10 @@ Cara menggunakan program :
 4. Hasil file ..., nama hasil pengolahannya adalah Report (tanggal Bulan tahun).xlsx
 5. Hasil file ..., nama hasil pengolahannya adalah Report TKJP Pertamina Group (tanggal Bulan tahun).xlsx
 
-Selanjutnya kedua file tersebut dapat dilakukan proses pembuatan visualisasi dengan excel.
+Selanjutnya kedua file tersebut dapat dilakukan proses pembuatan visualisasi dengan excel.<br>
+Selama saya menggunakan program ini, saya dapat memangkas waktu pengerjaan yang biasanya memakan waktu sekitar 30-90 menit menjadi hanya 5-15 menit. 
+
+<H3><B>SEMOGA PROGRAM INI MEMBANTU </h3></b>
 
 <b>*nama user pada komputer kamu<br>
 **tanggal

@@ -11,15 +11,15 @@ Cara menyiapkan data dan program :
 2. Download file program Pertamina - Rekap Absen.ipynb
 3. Letakkan (copy-paste) file program tadi di C:\Users\nama user<b>*</b>\
 4. Buat folder D:\Pertamina\Rekap Absen TKJP\dengan nama tanggal pada saat mengambil data<b>**</b>\
-5. Pada file ..., rubah nama file tersebut menjadi tanggal pada saat mengambil data tersebut (... -> 20-09-2021)
-6. Pada file ..., rubah nama file tersebut menjadi tanggal pada saat mengambil data tersebut (... -> 20-09-2021_ap)
+5. Pada file daftar hadir TKJP, rubah nama file tersebut menjadi tanggal pada saat mengambil data tersebut (Daftar Hadir TKJP Pertamina Group 20.09.2021.xlsx -> 20-09-2021)
+6. Pada file rekap daftar hadir anak perusahaan, rubah nama file tersebut menjadi tanggal pada saat mengambil data tersebut (WFH_Attendance_20092021 -> 20-09-2021_ap)
 
 Cara menggunakan program :
 1. Pada line 1, kamu dapat merubah variabel tanggal, bulan (bilangan), dan bulan_ (penyebut dengan huruf kecil semua) sesuai dengan waktu yang diinginkan
 2. Run program keseluruhan (pilih menu cell -> run all atau tekan shift + enter hingga seluruh line 
 3. Program selesai
-4. Hasil file ..., nama hasil pengolahannya adalah Report (tanggal Bulan tahun).xlsx
-5. Hasil file ..., nama hasil pengolahannya adalah Report TKJP Pertamina Group (tanggal Bulan tahun).xlsx
+4. Hasil file daftar hadir TKJP, nama hasil pengolahannya adalah Report (tanggal Bulan tahun).xlsx
+5. Hasil file daftar hadir anak perusahaan, nama hasil pengolahannya adalah Report TKJP Pertamina Group (tanggal Bulan tahun).xlsx
 
 Selanjutnya kedua file tersebut dapat dilakukan proses pembuatan visualisasi dengan excel.<br>
 Selama saya menggunakan program ini, saya dapat memangkas waktu pengerjaan yang biasanya memakan waktu sekitar 30-90 menit menjadi hanya 5-15 menit. 
